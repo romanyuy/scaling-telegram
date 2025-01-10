@@ -1,0 +1,17 @@
+Library/bin/cfitsio.dll
+Library/include/cfortran.h
+Library/include/drvrgsiftp.h
+Library/include/drvrsmem.h
+Library/include/eval_defs.h
+Library/include/eval_tab.h
+Library/include/f77_wrap.h
+Library/include/fitsio.h
+Library/include/fitsio2.h
+Library/include/fpack.h
+Library/include/group.h
+Library/include/grparser.h
+Library/include/longnam.h
+Library/include/region.h
+Library/include/simplerng.h
+Library/lib/cfitsio.lib
+Library/lib/pkgconfig/cfitsio.pc
